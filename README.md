@@ -1,3 +1,5 @@
+## This Repository Includes source code for NixOS-based Linux Distro VynxOS. This Repository is the backbone of VynxOS 3.0 release.
+
 <p align="center">
   <a href="https://nixos.org#gh-light-mode-only">
     <img src="https://raw.githubusercontent.com/NixOS/nixos-homepage/master/logo/nixos-hires.png" width="500px" alt="NixOS logo"/>
